@@ -10,7 +10,8 @@ Deploy with
 
     docker-compose up --build
     
-And visit http://my.gitlab:9090
+Visit http://my.gitlab:9090, change password and then login with **root**.
+
 
 # thanks
 
